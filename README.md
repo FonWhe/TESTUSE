@@ -1,10 +1,10 @@
 #######qqqxxxx&&
-OFFUSE:2
+OFFUSE:0
 +-+BAN:
 222,
-X,
+-X,
 -yingbing_luo,
-fan_xiao
+-fan_xiao
 +-+MESSAGE:
 看到此消息即访问云控成功。
 目前实现功能：
@@ -20,11 +20,11 @@ X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 X,30秒后踢下线;
-fan_xiao,看到消息回我一下;
-yingbing_luo,好了，给你恢复了
+-fan_xiao,看到消息回我一下;
+-yingbing_luo,好了，给你恢复了
 +-+POWER_RIGHT:
 X,0:1;
-fan_xiao,3;
+fan_xiao,1;
 zizheng_li,0;
-yingbing_luo,0:1
+yingbing_luo,0
 #######qqqxxxx&&
