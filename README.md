@@ -2,7 +2,7 @@
 OFFUSE:2
 +-+BAN:
 222,
-X,
+-X,
 fan_xiao
 +-+MESSAGE:
 公告消息
