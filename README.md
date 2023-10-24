@@ -1,6 +1,6 @@
 #######qqqxxxx&&
 +-+BAN:
-222
+222,yang_shen
 +-+MESSAGE:
 公告消息
 23333
@@ -10,5 +10,5 @@ y
 qqqq,哈哈哈;
 yang_shen,专属消息已送达
 +-+POWER_RIGHT:
-yang_shen,0:1
+yang_shen,1
 #######qqqxxxx&&
