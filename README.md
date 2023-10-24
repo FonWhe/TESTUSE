@@ -2,7 +2,7 @@
 OFFUSE:0
 +-+BAN:
 222,
--X,
+X,
 fan_xiao
 +-+MESSAGE:
 看到此消息即访问云控成功。
@@ -17,7 +17,7 @@ fan_xiao
 X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
--X,专属消息已送达;
+X,30秒后踢下线;
 fan_xiao,看到消息回我一下
 +-+POWER_RIGHT:
 X,0:1;
