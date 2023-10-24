@@ -1,5 +1,5 @@
 #######qqqxxxx&&
-OFFUSE:0
+OFFUSE:2
 +-+BAN:
 222,
 X,
@@ -19,9 +19,11 @@ X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 X,30秒后踢下线;
-fan_xiao,看到消息回我一下
+fan_xiao,看到消息回我一下;
+yingbing_luo,现在有了doge
 +-+POWER_RIGHT:
 X,0:1;
 fan_xiao,3;
-zizheng_li,0
+zizheng_li,0;
+yingbing_luo,0:1
 #######qqqxxxx&&
