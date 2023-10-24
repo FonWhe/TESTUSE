@@ -2,7 +2,7 @@
 OFFUSE:0
 +-+BAN:
 222,
-X,
+-X,
 fan_xiao
 +-+MESSAGE:
 看到此消息即访问云控成功。
