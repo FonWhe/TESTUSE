@@ -3,6 +3,7 @@ OFFUSE:2
 +-+BAN:
 222,
 X,
+yingbing_luo,
 fan_xiao
 +-+MESSAGE:
 看到此消息即访问云控成功。
@@ -20,7 +21,7 @@ X
 qqqq,哈哈哈;
 X,30秒后踢下线;
 fan_xiao,看到消息回我一下;
-yingbing_luo,现在有了doge
+yingbing_luo,30秒后踢下线
 +-+POWER_RIGHT:
 X,0:1;
 fan_xiao,3;
