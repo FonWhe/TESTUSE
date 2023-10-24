@@ -15,5 +15,5 @@ zizheng_li,阿巴阿巴阿巴阿巴
 +-+POWER_RIGHT:
 yang_shen,2;
 fan_xiao,3;
-zizheng_li,1
+zizheng_li,0
 #######qqqxxxx&&
