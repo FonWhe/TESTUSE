@@ -14,5 +14,6 @@ fan_xiao,看到消息回我一下;
 zizheng_li,举办无效
 +-+POWER_RIGHT:
 yang_shen,2;
-fan_xiao,3
+fan_xiao,3;
+zizheng_li,1
 #######qqqxxxx&&
