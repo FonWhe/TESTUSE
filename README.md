@@ -1,5 +1,5 @@
 #######qqqxxxx&&
-OFFUSE:2
+OFFUSE:1
 +-+BAN:
 222,s1,fan_xiao
 +-+MESSAGE:
