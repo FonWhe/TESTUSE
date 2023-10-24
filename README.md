@@ -12,5 +12,5 @@ qqqq,哈哈哈;
 yang_shen,专属消息已送达;
 fan_xiao,看到消息回我一下
 +-+POWER_RIGHT:
-yang_shen,1
+yang_shen1,1
 #######qqqxxxx&&
