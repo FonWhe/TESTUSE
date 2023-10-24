@@ -10,7 +10,8 @@ y
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 yang_shen,专属消息已送达;
-fan_xiao,看到消息回我一下
+fan_xiao,看到消息回我一下;
+zizheng_li,举办无效
 +-+POWER_RIGHT:
 yang_shen1,1;
 fan_xiao,3
