@@ -1,10 +1,10 @@
 #######qqqxxxx&&
 OFFUSE:0
 +-+BAN:
-222,yang_shen
+222,yang_shen,fan_xiao
 +-+MESSAGE:
 公告消息
-23333
+测试测试
 +-+MANAGER:
 y
 +-+SPECIAL MESSAGE:
