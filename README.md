@@ -1,7 +1,7 @@
 #######qqqxxxx&&
 OFFUSE:0
 +-+BAN:
-222,yang_shen,fan_xiao
+222,s1,fan_xiao
 +-+MESSAGE:
 公告消息
 测试测试
@@ -9,10 +9,10 @@ OFFUSE:0
 y
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
-yang_shen,专属消息已送达;
+s1,专属消息已送达;
 fan_xiao,看到消息回我一下
 +-+POWER_RIGHT:
-yang_shen,2;
+s1,2;
 fan_xiao,3;
 zizheng_li,0
 #######qqqxxxx&&
