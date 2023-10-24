@@ -25,7 +25,7 @@ X,30秒后踢下线;
 -yingbing_luo,好了，给你恢复了
 +-+POWER_RIGHT:
 X,0:1;
-Dreamaker,0,1;
+Dreamaker,0:1;
 fan_xiao,1;
 zizheng_li,0;
 yingbing_luo,0
