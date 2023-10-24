@@ -1,6 +1,6 @@
 #######qqqxxxx&&
-BAN:1111,2222
+BAN:yang_shen,2222
 +-+MESSAGE:测试测试
-+-+MANAGER:1111
-+-+SPECIAL MESSAGE:1111,ppppp
++-+MANAGER:yang_shen
++-+SPECIAL MESSAGE:yang_shen,ppppp
 #######qqqxxxx&&
