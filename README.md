@@ -8,7 +8,7 @@ fan_xiao
 公告消息
 测试测试
 +-+MANAGER:
-X
+-X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 -X,专属消息已送达;
