@@ -1,5 +1,5 @@
 #######qqqxxxx&&
-OFFUSE:2
+OFFUSE:0
 +-+BAN:
 222,
 -X,
