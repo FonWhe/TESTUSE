@@ -1,7 +1,9 @@
 #######qqqxxxx&&
-OFFUSE:0
+OFFUSE:2
 +-+BAN:
-222,X,fan_xiao
+222,
+X,
+fan_xiao
 +-+MESSAGE:
 公告消息
 测试测试
