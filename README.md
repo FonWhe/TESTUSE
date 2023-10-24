@@ -1,4 +1,5 @@
 #######qqqxxxx&&
+OFFUSE:0
 +-+BAN:
 222,yang_shen
 +-+MESSAGE:
