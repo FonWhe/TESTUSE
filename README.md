@@ -10,8 +10,7 @@ y
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 yang_shen,专属消息已送达;
-fan_xiao,看到消息回我一下;
-zizheng_li,阿巴阿巴阿巴阿巴
+fan_xiao,看到消息回我一下
 +-+POWER_RIGHT:
 yang_shen,2;
 fan_xiao,3;
