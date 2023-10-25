@@ -28,4 +28,8 @@ X,0:1;
 fan_xiao,1;
 zizheng_li,0;
 yingbing_luo,0
++-+newv:
+1.0.0
++-+old_max:
+0.0.1
 #######qqqxxxx&&
