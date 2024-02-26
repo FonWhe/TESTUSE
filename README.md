@@ -27,7 +27,7 @@ qqqq,哈哈哈;
 X,0:1:2:3:4:5;
 fan_xiao,1;
 zizheng_li,0;
-yingbing_luo,0
+yingbing_luo,0:1:2:4:5
 +-+newv:
 1.0.0
 +-+old_max:
