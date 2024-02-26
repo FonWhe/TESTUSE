@@ -16,7 +16,7 @@ OFFUSE:2
 6.关闭服务则无法打开
 7.主界面外的两个窗口强制下线（延时30s）
 +-+MANAGER:
-X
+-X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 X,30秒后踢下线;
