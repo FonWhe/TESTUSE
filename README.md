@@ -1,5 +1,5 @@
 #######qqqxxxx&&
-OFFUSE:1
+OFFUSE:2
 +-+BAN:
 222,
 -X,
@@ -31,7 +31,7 @@ yingbing_luo,0
 +-+newv:
 1.0.0
 +-+old_max:
-0.0.1
+0.0.0
 +-+new_link:
 1r36KeJKUe2oR8csGcQ3cX1DHIyotf_IS
 #######qqqxxxx&&
