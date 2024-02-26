@@ -2,7 +2,7 @@
 OFFUSE:2
 +-+BAN:
 222,
--X,
+X,
 -yingbing_luo,
 -fan_xiao
 +-+MESSAGE:
@@ -16,15 +16,15 @@ OFFUSE:2
 6.关闭服务则无法打开
 7.主界面外的两个窗口强制下线（延时30s）
 +-+MANAGER:
--X
+X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 -X,30秒后踢下线;
--X,抢救回来了;
+X,抢救回来了;
 -fan_xiao,看到消息回我一下;
 -yingbing_luo,好了，给你恢复了
 +-+POWER_RIGHT:
-X,1:2:3:5;
+X,0:1:2:3:4:5;
 fan_xiao,1;
 zizheng_li,0;
 yingbing_luo,0
