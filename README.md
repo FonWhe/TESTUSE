@@ -33,5 +33,5 @@ yingbing_luo,0
 +-+old_max:
 0.0.1
 +-+new_link:
-1r36KeJKUe2oR8csGcQ3cX1DHIyotf_IS/view?usp=drive_link
+1r36KeJKUe2oR8csGcQ3cX1DHIyotf_IS
 #######qqqxxxx&&
