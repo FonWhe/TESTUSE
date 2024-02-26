@@ -20,7 +20,7 @@ X
 +-+SPECIAL MESSAGE:
 qqqq,哈哈哈;
 -X,30秒后踢下线;
-X,抢救回来了;
+-X,抢救回来了;
 -fan_xiao,看到消息回我一下;
 -yingbing_luo,好了，给你恢复了
 +-+POWER_RIGHT:
