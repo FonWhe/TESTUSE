@@ -24,7 +24,7 @@ qqqq,哈哈哈;
 -fan_xiao,看到消息回我一下;
 -yingbing_luo,好了，给你恢复了
 +-+POWER_RIGHT:
-X,0:1;
+X,0:1:2:3:4:5;
 fan_xiao,1;
 zizheng_li,0;
 yingbing_luo,0
