@@ -1,5 +1,5 @@
 #######qqqxxxx&&
-OFFUSE:2
+OFFUSE:1
 +-+BAN:
 222,
 -X,
@@ -22,7 +22,8 @@ qqqq,哈哈哈;
 -X,30秒后踢下线;
 -X,抢救回来了;
 -fan_xiao,看到消息回我一下;
-yingbing_luo,虽然有2048但是不可用。。。我再修几天
+-yingbing_luo,虽然有2048但是不可用。。。我再修几天
+yingbing_luo,没得玩了哦~
 +-+POWER_RIGHT:
 X,0:1:2:3:4:5;
 fan_xiao,1;
